@@ -1,4 +1,4 @@
-# ApiRest
+<h1 style="font-size: 2.5em; font-family: Courier">ApiRest</h1>    
 <br>
 <p> Esta es una practica en base a la siguiente lista de videos.</p>
 <a href="https://www.youtube.com/watch?v=mdbTPQ1j2F8&list=PLRFOqDrY-6nueU8NwtjRIcX5-nsD6jkru&index=9"> Lista de videos en youtube</a>
@@ -6,14 +6,14 @@
 <br>
 <p>------------------------------------------------------------------------------------------------</p>
 
-# Requisitos previos
+<h2>Requisitos previos</h2>
 
 Asegúrate de tener instalado lo siguiente antes de ejecutar el proyecto:
 
 <li><strong> Java </strong> (versión 17 o superior)</li>
 <li> <strong> Gradle </strong> (versión 3 o superior)</li>
 
-# Configuración
+<h2>Configuración</h2>
 
 <ul>
 
@@ -25,4 +25,4 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar el proyecto:
 </ul>
 
 
-<h2 style="font-family: robot"> Alumno: Giuliano Espejo.</h2>
+<h2 style="font-family: Courier; font-size: 2.3em"> Alumno: Giuliano Espejo.</h2>
