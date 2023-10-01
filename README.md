@@ -15,14 +15,12 @@ Asegúrate de tener instalado lo siguiente antes de ejecutar el proyecto:
 
 <h2>Configuración</h2>
 
-<ul>
-
 <li>Clona este repositorio en tu máquina local:</li>
 
     git clone https://github.com/Giuliano-Espejo/ApiRest.git
 
 <li>Navega al directorio del proyecto:</li>
-</ul>
+
 
 
 <h2 style="font-family: Courier; font-size: 2.3em"> Alumno: Giuliano Espejo.</h2>
